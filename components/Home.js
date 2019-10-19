@@ -70,7 +70,7 @@ const Home = props => {
                 icon={<Icon name="car-side" size={125} color="white" />}
                 color="#fff"
                 title="Заплати паркинг място"
-                onPress={() => props.navigation.navigate("MyVehicles")}
+                onPress={() => props.navigation.navigate("PayParking")}
                 linearGradientProps={{
                     colors: ["#38ef7d", "#11998e"],
                     start: { x: 0, y: 0.5 },
