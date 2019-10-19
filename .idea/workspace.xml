@@ -48,6 +48,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+
         <entry file="file://$PROJECT_DIR$/components/Home.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -76,7 +77,6 @@
     <option name="x" value="-5" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="812" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
