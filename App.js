@@ -6,7 +6,7 @@ import MyVehicles from "./components/MyVehicles";
 export default function App() {
     return (
         <View>
-            <Home />
+            {/*<Home />*/}
             <MyVehicles />
         </View>
     );
